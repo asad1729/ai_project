@@ -1,0 +1,117 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "92.7",
+               "tagline": "Suno Sunao, Life Banao!",
+               "color": "0xffa11431",
+               "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+               "url": "http://sc-bb.1.fm:8017/;",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+               "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5df4c18876369.562d0d4bd94cf.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 1
+           },
+           {
+               "id": 2,
+               "name": "98.3",
+               "tagline": "Gaano Ka Sweet Dish",
+               "color": "0xff221420",
+               "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+               "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+               "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+               "image": "https://static.toiimg.com/thumb/msid-72350288,width-800,height-600,resizemode-75,imgsize-302210,pt-32,y_pad-40/72350288.jpg",
+               "lang": "Hindi",
+               "disliked": false,
+               "category": "rock",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "102",
+               "tagline": "Play On!",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "http://node-14.zeno.fm/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABa7Pm__WhrF8jIJ36of_AC5C-TeMcqPiHC5BJB1j1JxkowiWAyQ",
+               "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+               "image": "https://pbs.twimg.com/media/Cs47zArVYAAg5dS.jpg",
+               "lang": "English",
+               "disliked": false,
+               "category": "hip-hop",
+               "order": 3
+           },
+           {
+               "id": 4,
+               "name": "104",
+               "tagline": "English Hits",
+               "color": "0xff066c53",
+               "desc": "",
+               "url": "http://108.61.34.50:7094/stream",
+               "icon": "https://radiosindia.com/images/foxfm.jpg",
+               "image": "https://www.lololyrics.com/img/cover/38214.jpeg",
+               "lang": "English",
+               "category": "hip-hop",
+               "disliked": false,
+               "order": 4
+           },
+           {
+               "id": 5,
+               "name": "95",
+               "tagline": "London UK Asian Music",
+               "color": "0xff0d487d",
+               "desc": "",
+               "url": "http://icy-e-01-cr.sharp-stream.com/1458.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+               "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_large.jpg",
+               "lang": "English",
+               "category": "jazz",
+               "disliked": false,
+               "order": 5
+           },
+           {
+               "id": 6,
+               "name": "94",
+               "tagline": "Today's Hits",
+               "color": "0xff27383e",
+               "desc": "",
+               "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+               "image": "data:image/jpeg;base64,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",
+               "lang": "English",
+               "category": "rock",
+               "disliked": false,
+               "order": 6
+           },
+           {
+               "id": 7,
+               "name": "93",
+               "tagline": "Love Songs",
+               "color": "0xffa06a37",
+               "desc": "The brain responds to music the same way it responds to something that you eat.",
+               "url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+               "image": "https://i0.wp.com/theindianmusicdiaries.com/wp-content/uploads/2020/05/IMG_9038-1024x1024.jpg?resize=800%2C800",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "107",
+               "tagline": "Rocking Retro Hits",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+               "image": "https://i.pinimg.com/originals/7f/f6/13/7ff613ed815f1eb56a90794ec64eecfe.jpg",
+               "lang": "Hindi",
+               "category": "classic",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+   
+}
